@@ -16536,14 +16536,14 @@ a.pswp__share--facebook:before {
   pointer-events: none;
 }
 a.pswp__share--facebook:hover {
-  background: #3E5C9A;
+  background: #ffffff;
   color: #FFF;
 }
 a.pswp__share--facebook:hover:before {
-  border-bottom-color: #3E5C9A;
+  border-bottom-color: #ffffff;
 }
 a.pswp__share--twitter:hover {
-  background: #55ACEE;
+  background: #ffffff;
   color: #FFF;
 }
 a.pswp__share--pinterest:hover {
@@ -22754,10 +22754,10 @@ a.u-button-style.u-button-style.active > .u-active-color-4-dark-2[class*="u-bord
 li.active > a.u-button-style.u-button-style.u-active-color-4-dark-2,
 li.active > a.u-button-style.u-button-style.u-active-color-4-dark-2[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #41807c !important;
+  background-color: #ffffff !important;
 }
 a.u-link.u-hover-color-4-dark-2:hover {
-  color: #41807c !important;
+  color: #ffffff !important;
 }
 .u-color-4-dark-1,
 .u-body.u-color-4-dark-1,
@@ -22766,12 +22766,12 @@ a.u-link.u-hover-color-4-dark-2:hover {
 .u-container-layout.u-container-layout.u-color-4-dark-1:before,
 .u-table-alt-color-4-dark-1 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #2cccc4;
+  background-color: #ffffff;
 }
 .u-button-style.u-color-4-dark-1,
 .u-button-style.u-color-4-dark-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #2cccc4 !important;
+  background-color: #ffffff !important;
 }
 .u-button-style.u-color-4-dark-1:hover,
 .u-button-style.u-color-4-dark-1[class*="u-border-"]:hover,
@@ -22807,10 +22807,10 @@ a.u-button-style.u-button-style.active > .u-active-color-4-dark-1[class*="u-bord
 li.active > a.u-button-style.u-button-style.u-active-color-4-dark-1,
 li.active > a.u-button-style.u-button-style.u-active-color-4-dark-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #2cccc4 !important;
+  background-color: #ffffff !important;
 }
 a.u-link.u-hover-color-4-dark-1:hover {
-  color: #2cccc4 !important;
+  color: #ffffff !important;
 }
 .u-color-4,
 .u-body.u-color-4,
@@ -22819,12 +22819,12 @@ a.u-link.u-hover-color-4-dark-1:hover {
 .u-container-layout.u-container-layout.u-color-4:before,
 .u-table-alt-color-4 tr:nth-child(even) {
   color: #111111;
-  background-color: #3be8e0;
+  background-color: #ffffff;
 }
 .u-button-style.u-color-4,
 .u-button-style.u-color-4[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #3be8e0 !important;
+  background-color: #ffffff !important;
 }
 .u-button-style.u-color-4:hover,
 .u-button-style.u-color-4[class*="u-border-"]:hover,
